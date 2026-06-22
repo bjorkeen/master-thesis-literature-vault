@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#gap_exposing  ",
+      "color": {
+        "a": 1,
+        "rgb": 16500018
+      }
+    },
+    {
+      "query": "tag:#gap  ",
+      "color": {
+        "a": 1,
+        "rgb": 15086387
+      }
+    },
+    {
+      "query": "[\"type\":artifact]",
+      "color": {
+        "a": 1,
+        "rgb": 11262031
+      }
+    },
+    {
+      "query": "[\"role\":methodological_backbone]",
+      "color": {
+        "a": 1,
+        "rgb": 2612680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.06341145833333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.570182291666667,
+  "repelStrength": 11.9600694444444,
+  "linkStrength": 0.835243055555556,
+  "linkDistance": 200,
+  "scale": 0.7610176394994504,
+  "close": true
+}
