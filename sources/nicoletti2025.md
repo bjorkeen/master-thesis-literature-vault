@@ -26,3 +26,4 @@ Directly informs System Design (Chapter 4). Architecture comparison references t
 ## Connections
 - EXTENDS [[zhang2024]]
 - EXPOSES_GAP [[vereschak2021]]
+- EXPOSES_GAP [[GAP]]

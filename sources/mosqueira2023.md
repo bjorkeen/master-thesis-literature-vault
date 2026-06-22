@@ -25,3 +25,4 @@ Chapter 2 HITL section. Core survey reference establishing HITL vocabulary.
 ## Connections
 - EXPOSES_GAP [[vereschak2021]]
 - INFORMS [[natarajan2024]]
+- EXPOSES_GAP [[GAP]]

@@ -26,3 +26,4 @@ Chapter 2 XAI empirical evidence. H2 directly builds on this.
 ## Connections
 - EXPOSES_GAP [[vereschak2021]]
 - INFORMS [[arrieta2020]]
+- EXPOSES_GAP [[GAP]]

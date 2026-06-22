@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63c101c3443def8b",
+        "id": "8bdd701c96f0a64a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae4b364d78ef5beb",
+            "id": "0b11ad0c127a4138",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,15 +177,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae4b364d78ef5beb",
+  "active": "0b11ad0c127a4138",
   "lastOpenFiles": [
-    "sources/zheng2022.md",
-    "GAP.md",
     "sources/zhang2024.md",
-    "sources/xu2021.md",
     "sources/wu2022.md",
-    "sources/wang1996.md",
     "sources/vereschak2021.md",
+    "sources/shneiderman2020.md",
+    "sources/nicoletti2025.md",
+    "sources/natarajan2024.md",
+    "sources/mosqueira2023.md",
+    "sources/liao2022.md",
+    "sources/leichtmann2023.md",
+    "sources/kreuzer2024.md",
+    "sources/duan2019.md",
+    "sources/bousdekis2021.md",
+    "sources/batool2024.md",
+    "gap_exposing.md",
+    "GAP.md",
+    "sources/zheng2022.md",
+    "sources/xu2021.md",
+    "sources/wang1996.md",
     "sources/venable2016.md",
     "sources/tao2019.md",
     "sources/shulner2024.md",
@@ -193,17 +204,6 @@
     "sources/saunders2019.md",
     "sources/sheridan2002.md",
     "sources/salih2024.md",
-    "sources/ribeiro2016.md",
-    "sources/rasheed2020.md",
-    "sources/qi2021.md",
-    "sources/pratt2023.md",
-    "sources/peirce1905.md",
-    "sources/peffers2007.md",
-    "sources/parasuraman2000.md",
-    "sources/nicoletti2025.md",
-    "sources/natarajan2024.md",
-    "sources/mosqueira2023.md",
-    "sources/lundberg2020.md",
-    "sources/lundberg2017.md"
+    "sources/ribeiro2016.md"
   ]
 }

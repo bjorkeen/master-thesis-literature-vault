@@ -26,3 +26,4 @@ Foundational reference for Chapter 2 and Chapter 3. Directly cited in gap statem
 ## Connections
 - EXPOSES_GAP [[nicoletti2025]]
 - EXTENDS [[kreuzer2024]]
+- EXPOSES_GAP [[GAP]]

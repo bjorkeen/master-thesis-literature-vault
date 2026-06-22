@@ -26,3 +26,4 @@ Chapter 5 evaluation design. Questionnaire trust items validated against this su
 ## Connections
 - EXPOSES_GAP [[choung2023]]
 - INFORMS [[leichtmann2023]]
+- EXPOSES_GAP [[GAP]]

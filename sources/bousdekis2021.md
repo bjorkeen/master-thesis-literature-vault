@@ -26,3 +26,4 @@ Chapter 2 data-driven operations section. Domain parallel to incident management
 ## Connections
 - INFORMS [[aalst2016]]
 - EXPOSES_GAP [[duan2019]]
+- EXPOSES_GAP [[GAP]]

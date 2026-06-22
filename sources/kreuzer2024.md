@@ -25,3 +25,4 @@ Key citation in gap statement (Chapter 2). Literature review table references Kr
 ## Connections
 - EXPOSES_GAP [[nicoletti2025]]
 - INFORMS [[zhang2024]]
+- EXPOSES_GAP [[GAP]]

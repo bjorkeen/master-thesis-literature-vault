@@ -26,3 +26,4 @@ Chapter 2 HITL governance theory. HCAI framework possibly included as Figure 2.x
 ## Connections
 - INFORMS [[mosqueira2023]]
 - EXPOSES_GAP [[parasuraman2000]]
+- EXPOSES_GAP [[GAP]]

@@ -26,3 +26,4 @@ Chapter 2 HITL decision framing. H1 framing traces here.
 ## Connections
 - EXPOSES_GAP [[mosqueira2023]]
 - INFORMS [[drori2024]]
+- EXPOSES_GAP [[GAP]]

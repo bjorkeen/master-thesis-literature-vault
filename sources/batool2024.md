@@ -25,3 +25,4 @@ Chapter 2 AI governance section. Gap statement — governance requires HITL.
 ## Connections
 - INFORMS [[jobin2019]]
 - EXPOSES_GAP [[floridi2018]]
+- EXPOSES_GAP [[GAP]]
