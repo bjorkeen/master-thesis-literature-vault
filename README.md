@@ -2,13 +2,12 @@
 
 > **Human-in-the-Loop Decision Intelligence for Data-Driven Operations: A Cognitive Digital Twin Approach**
 > Gkanatsa Antonia · esd25004 · MSc Enterprise Software Systems Development
-> University of Macedonia · Supervisor: Prof. K. Vergidis · Industry Mentor: George Georgalidis (Deloitte)
-
+> University of Macedonia · Supervisor: Prof. K. Vergidis 
 ---
 
 ## What this is
 
-A structured knowledge graph of the 59 sources comprising the thesis literature review, built in [Obsidian](https://obsidian.md). Inspired by Andrej Karpathy's LLM wiki approach — every source is a node, every connection is a typed relationship, and the research gap is a structural node rather than a narrative claim.
+A structured knowledge graph of the 59 sources comprising the thesis literature review, built in [Obsidian](https://obsidian.md). Inspired by Andrej Karpathy's LLM wiki approach, every source is a node, every connection is a typed relationship, and the research gap is a structural node rather than a narrative claim.
 
 The graph makes the research gap **visually legible**: thirteen papers converge on a central GAP node via `EXPOSES_GAP` edges, and one outgoing edge leads to the THESIS artifact. The argument is visible in the graph structure itself, without reading a single sentence of prose.
 
