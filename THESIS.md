@@ -5,8 +5,7 @@ role: thesis_artifact
 author: Gkanatsa Antonia
 student_id: esd25004
 supervisor: Prof. Konstantinos Vergidis
-mentor: George Georgalidis (Deloitte)
-institution: University of Macedonia — MSc Enterprise Software Systems Development
+institution: University of Macedonia - MSc Enterprise Software Systems Development
 tags: [artifact, HITL, CDT, XAI, DSR, DecisionIntelligence, DataQuality, prototype]
 github: https://github.com/bjorkeen/master-thesis-prototype
 ---
@@ -145,5 +144,4 @@ Three conditions:
 | 4 | System Design | [[nicoletti2025]], [[zhang2024]], [[lundberg2017]], [[sheridan2002]] |
 | 5 | Implementation | [[lundberg2020]], [[lundberg2017]], [[agrawal2018]], [[ribeiro2016]] |
 | 6 | Evaluation / Results | [[vereschak2021]], [[natarajan2024]], [[choung2023]], [[hart1988]], [[jian2000]], [[hoffman2023]] |
-| 7 | Discussion | [[jarrahi2018]], [[shneiderman2020]], [[batool2024]], [[euai2024]] |
-| 8 | Conclusion | [[GAP]] → THESIS (gap closed) |
+| 7 | Discussion & Conclusion | [[jarrahi2018]], [[shneiderman2020]], [[batool2024]], [[euai2024]], [[GAP]] → THESIS (gap closed) |
