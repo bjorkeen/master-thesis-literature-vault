@@ -92,7 +92,7 @@ Data-driven workflow under SLA pressure with XAI-backed confidence routing
 Empirical evaluation of human-AI decision outcomes in an operational context
 ```
 
-Each dimension has literature. The intersection does not — until this thesis.
+Each dimension has literature but the intersection does not.
 
 ---
 
@@ -179,4 +179,4 @@ The full reference list (59 sources) with citation details is in the thesis docu
 
 ---
 
-*MSc Thesis · University of Macedonia · Department of Applied Informatics · 2025–2026*
+*MSc Thesis · University of Macedonia · Department of Applied Informatics · 2025-2026*
